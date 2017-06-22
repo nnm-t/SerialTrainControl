@@ -5,6 +5,8 @@
 シリアル通信を利用してArduinoと通信を行い、運転台型コントローラを操作して鉄道模型を制御するソフトウェアです。
 Bluetoothでの無線通信を想定して開発しましたが、USBによるシリアル通信でも使用できます。
 
+[自サイトの記事](http://kamisawa.net/electronic-kit/bluetooth-railroadmodel/)も参照されたし。
+
 ## ファイル構成
 
 - sketch
